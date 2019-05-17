@@ -1,0 +1,26 @@
+{
+  "name": "serialize-buffer-array",
+  "version": "1.0.0",
+  "description": "Serialize/Deserialize an array of Buffers",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "keywords": [
+    "serialize",
+    "deserialize",
+    "buffer",
+    "split",
+    "join",
+    "array"
+  ],
+  "author": "Kevin Johnson (KevinEJohn)",
+  "license": "MIT",
+  "dependencies": {
+    "buffer": "5.2.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/kevinejohn/serialize-buffer-array.git"
+  }
+}
